@@ -1,0 +1,3 @@
+Server moderators should go in this file. (No other text, one per line) 
+Moderators cannot request critical bot functions like "get-ip" or other like functions.
+They can request information regarding the Discord Server they moderate however.

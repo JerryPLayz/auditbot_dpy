@@ -1,0 +1,1 @@
+Put users' ids who you don't want using this bot at all.
